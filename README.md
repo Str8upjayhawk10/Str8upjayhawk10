@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...email(str8upjayhawk10@gmail.com)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...started coding in August 2020 currently enrolled in coding bootcamp!
--->
